@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
-import sqlite3
 
 root = Tk() #create object
 root.title('MINI PROJECT')
